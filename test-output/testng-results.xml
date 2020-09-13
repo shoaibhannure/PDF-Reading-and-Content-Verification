@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15840" started-at="2020-09-13T18:45:17Z" finished-at="2020-09-13T18:45:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15840" started-at="2020-09-13T18:45:17Z" finished-at="2020-09-13T18:45:33Z">
+      <class name="com.shoaib.selenium.ContentVerificationInPDF">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.shoaib.selenium.ContentVerificationInPDF@7e0babb1]" name="SetUp" is-config="true" duration-ms="5819" started-at="2020-09-14T00:15:17Z" finished-at="2020-09-14T00:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyContentInPDF()[pri:0, instance:com.shoaib.selenium.ContentVerificationInPDF@7e0babb1]" name="VerifyContentInPDF" duration-ms="9336" started-at="2020-09-14T00:15:23Z" finished-at="2020-09-14T00:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContentInPDF -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shoaib.selenium.ContentVerificationInPDF@7e0babb1]" name="tearDown" is-config="true" duration-ms="679" started-at="2020-09-14T00:15:32Z" finished-at="2020-09-14T00:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shoaib.selenium.ContentVerificationInPDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
